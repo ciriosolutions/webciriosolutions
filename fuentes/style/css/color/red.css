@@ -1,123 +1,123 @@
 a {
-    color: #ff6760;
+    color: #ec9c1b;
 }
 h2.post-title a:hover {
-    color: #ff6760
+    color: #ec9c1b
 }
 a.button,
 .forms fieldset .btn-submit,
 .comment-form .btn-submit,
 .filter li a,
 .page-navi ul li a {
-    background-color: #ff6760;
+    background-color: #ec9c1b;
 }
 ul li:before {
-    color: #ff6760;
+    color: #ec9c1b;
 }
 .lite1 {
-    color: #ff6760;
-    border-bottom: 1px dotted #ff6760;
+    color: #ec9c1b;
+    border-bottom: 1px dotted #ec9c1b;
 }
 .menu ul li.active a,
 .menu ul li a:hover,
 .menu ul li a.selected {
-    color: #ff6760
+    color: #ec9c1b
 }
 .menu ul li ul:before {
-    border-bottom: 5px solid #ff6760;
+    border-bottom: 5px solid #ec9c1b;
 }
 .menu ul li ul li:first-child {
-    border-top: 2px solid #ff6760
+    border-top: 2px solid #ec9c1b
 }
 .menu ul li ul li a:hover {
-    background-color: #ff6760;
+    background-color: #ec9c1b;
 }
 .box-wrapper .box:hover i.special {
-    color: #ff6760;
+    color: #ec9c1b;
 }
 .box-wrapper .box:hover p,
 .box-wrapper .box:hover h3 {
-    color: #ff6760;
+    color: #ec9c1b;
 }
 footer a:hover {
-    color: #ff6760
+    color: #ec9c1b
 }
 .subfooter-wrapper a:hover {
-    color: #ff6760
+    color: #ec9c1b
 }
 ul.contact-info li i {
-    color: #ff6760;
+    color: #ec9c1b;
 }
 .post .info .date {
-    background: #ff6760;
+    background: #ec9c1b;
 }
 .post-list h6 a:hover {
-    color: #ff6760
+    color: #ec9c1b
 }
 .related-wrapper h2 a:hover {
-    color: #ff6760
+    color: #ec9c1b
 }
 #comments .info h2 a:hover {
-    color: #ff6760
+    color: #ec9c1b
 }
 #comments a.reply-link:hover {
-    color: #ff6760
+    color: #ec9c1b
 }
 .tab a.active,
 .tab a:hover {
-    color: #ff6760
+    color: #ec9c1b
 }
 #testimonials .author {
-    color: #ff6760;
+    color: #ec9c1b;
 }
 #testimonials .tab a.active,
 #testimonials .tab a:hover {
-    background: #ff6760;
+    background: #ec9c1b;
 }
 .toggle h4.title:hover,
 .toggle h4.title.active {
-    color: #ff6760
+    color: #ec9c1b
 }
 .tp-caption .colored {
-    color: #ff6760
+    color: #ec9c1b
 }
 .tp-bullets.simplebullets.round .bullet.selected,
 .tp-bullets.simplebullets.round .bullet:hover {
-    background-color: #ff6760
+    background-color: #ec9c1b
 }
 .tparrows:hover {
-    background-color: #ff6760;
+    background-color: #ec9c1b;
 }
 .touchcarousel .touchcarousel-item .link:hover {
-    background-color: #ff6760;
+    background-color: #ec9c1b;
 }
 .touchcarousel .touchcarousel-item .caption a:hover {
-	color: #ff6760;
+	color: #ec9c1b;
 }
 .touch-carousel .scrollbar {
-    background-color: #ff6760 !important;
+    background-color: #ec9c1b !important;
 }
 .fancybox-close:hover,
 .fancybox-prev span:hover,
 .fancybox-next span:hover {
-    background: #ff6760 !important;
+    background: #ec9c1b !important;
 }
 .meter > span {
-    background-color: #ff6760;
+    background-color: #ec9c1b;
 }
 .pricing .plan h4 span {
-    color: #ff6760;
+    color: #ec9c1b;
 }
 .portfolio-detail-view .closebutton:hover,
 .portfolio-detail-view-remove .closebutton:hover {
-    background: #ff6760;
+    background: #ec9c1b;
 }
 .carousel .item .link:hover,
 .portfolio-detail-view .single .link:hover {
-    background-color: #ff6760;
+    background-color: #ec9c1b;
 }
 .carousel-control:hover {
-    background-color: #ff6760;
+    background-color: #ec9c1b;
 }
 .items li a .overlay,
 .overlay a .more {
